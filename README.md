@@ -1,6 +1,6 @@
 ### Olá!! Eu sou o Leonardo Mello Trindade
 
-- 🌱 Estou estudando HTML / CSS / Bootstrap4
+- 🌱 Estou estudando HTML / CSS / Javascript
 - ⚡ Tenho conhecimento de Python
 
 <br>

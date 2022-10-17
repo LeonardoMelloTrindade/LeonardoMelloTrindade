@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Leonardo Mello Trindade
 
-- 🌱 Estou estudando HTML / CSS / Python / Java
-- ⚡ Tenho conhecimento de Python
+- 🌱 Estou estudando <strong>Desenvolvimento Web</strong>
+- ⚡ Estou cursando <strong>Sistemas de Informação</strong>
 
 <br>
 

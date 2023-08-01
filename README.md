@@ -21,5 +21,3 @@ Tecnologias e Ferramentas que estou aprendendo / utilizando:
 <img align="left" alt="Leo-JS" width="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Leo-ReactJs" height="40" width="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 <img align="left" alt="Leo-NodeJs" height="40" width="30" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-
-  ![snake gif](https://github.com/LeonardoMelloTrindade/LeonardoMelloTrindade/blob/output/github-contribution-grid-snake.svg)

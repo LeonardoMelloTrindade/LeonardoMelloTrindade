@@ -1,7 +1,6 @@
 ### Olá!! Eu sou o Leonardo Mello Trindade
 
-- 🌱 Estou estudando <strong>Desenvolvimento Web</strong>
-- ⚡ Estou cursando <strong>Sistemas de Informação</strong>
+- ⚡ Desenvolvedor Web
 
 <br>
 

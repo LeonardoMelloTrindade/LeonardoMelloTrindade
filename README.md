@@ -1,28 +1,12 @@
-### Olá!! Eu sou o Leonardo Mello Trindade
-
-- ⚡ Desenvolvedor Web
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/LeonardoMelloTrindade">
-  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoMelloTrindade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="44%" height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMelloTrindade&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-<hr>
-
-Tecnologias e Ferramentas que estou aprendendo / utilizando:
-
-<img align="left" alt="Leo-HTML" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="left" alt="Leo-CSS" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="left" alt="Leo-Bootstrap" height="40" width="30" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-<img align="left" alt="Leo-JS" width="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Leo-ReactJs" height="40" width="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-<img align="left" alt="Leo-NodeJs" height="40" width="30" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-<img align="left" alt="Leo-TypeScript" height="40" width="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-<img align="left" alt="Leo-Vue" height="40" width="30" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
-<img align="left" alt="Leo-Cypress" height="40" width="30" src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg">
-<img align="left" alt="Leo-C" height="40" width="30" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+# 💫 About Me:
+Hi there! 👋 I'm Leonardo Mello Trindade<br>I'm a Full-Stack Web Developer specializing in building scalable applications with Node.js and Python
 
 
+# 💻 Tech Stack:
+![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=LeonardoMelloTrindade&theme=transparent&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=LeonardoMelloTrindade&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMelloTrindade&theme=transparent&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm Leonardo Mello Trindade<br>I'm a Full-Stack Web Developer specializing in building scalable applications with Node.js and Python
+Hi there! 👋 I'm Leonardo Mello Trindade<br>I'm a Full-Stack Web Developer specializing in building scalable applications with Node.js
 
 
 # 💻 Tech Stack:
